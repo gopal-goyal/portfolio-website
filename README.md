@@ -14,3 +14,5 @@
 - Learned how to animate while hovering over text using CSS
 - Used <a> tag rel attribute which does 'referrer hiding'
 
+## Day 3 
+- Added Typed Js library in the webpage
